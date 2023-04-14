@@ -33,5 +33,5 @@ All Magics with their numbers in the game:<br/>
 9 - Chain Lightning: It reduce all parameters of the enemies creature with 2. <br/>
 10 - Prayer: Increase all parameters of the creature with 2. <br/>
 <br/>
-[Click Here If You Want to Play The Game](https://replit.com/@HristianBalevsk/The-Lord-of-The-Medieval?v=1)
+[Click Here If You Want to Play](https://replit.com/@HristianBalevsk/The-Lord-of-The-Medieval?v=1)
 ![Gold Dragon](https://user-images.githubusercontent.com/114162692/232104884-2a128d67-01dc-4452-a7af-18771c0881f7.png)
