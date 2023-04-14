@@ -2,7 +2,7 @@
 The Lord of The Medieval is a game inspired from Heroes 3.
 <br/>
 <br/>
-When I was a teenager I was addicted to one medieval game, it is called Heroes of Might and Magic. Today I decided to create a remix of that game, yes, I know, the original game is much, much better than mine but anyway, one day when I have more skills might be I will create something better. :) Please check the description down below if you want to play on the game.
+When I was a teenager I was addicted to one medieval game, it is called Heroes of Might and Magic. Today I decided to create a remix of that game, yes, I know, the original game is much, much better than mine but anyway, one day when I have more skills might be I will create something better. :) <br/>Please check the description down below if you want to play on the game.
 
 At the beginning of the game you will generate a random hero. Then you have to choose a number between 1 and 9 every number contains different town that you can play with. <br/>
 <br/>
