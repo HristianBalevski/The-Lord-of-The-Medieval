@@ -2,9 +2,9 @@
 The Lord of The Medieval is a game inspired from Heroes 3.
 <br/>
 <br/>
-When I was a teenager I was addicted to one medieval game, it is called Heroes of Might and Magic. Today I decided to create a remix of that game, yes, I know, the original game is much, much better than mine but anyway, one day when I have more skills might be I will create something better. :) <br/>Please check the description down below if you want to play on the game.
+When I was a teenager I was addicted to one medieval game, it is called Heroes of Might and Magic. Today I decided to create a remix of that game, yes, I know, the original game is much, much better than mine, but anyway. One day when I have more skills might be I will create something better. :) <br/>Please check the description down below if you want to play on the game.
 
-At the beginning of the game you will generate a random hero. Then you have to choose a number between 1 and 9 every number contains different town that you can play with. <br/>
+At the beginning of the game you will generate a random hero. Then you have to choose a number between 1 and 9. Every number contains different town that you can play with. <br/>
 <br/>
 1 - Castle <br/>
 2 - Rampart <br/>
@@ -16,9 +16,9 @@ At the beginning of the game you will generate a random hero. Then you have to c
 8 - Fortress <br/>
 9 - Conflux <br/>
 
-In the game there are 20 heroes, 10 of them are good and 10 are evil. The good hero will add bonuses to one of your creatures but the evil hero will make one of your creature's weak.
+In the game there are 20 heroes, 10 of them are good, and 10 of them are evil. The good hero will add bonuses to one of your creatures, but the evil hero will make one of your creature's weak.
 
-After that the game starts, every time when you have enough mana to make a magic the game will stop and you have to choose a magic then the game will continue. You have to think very well how to use your mana because every mistake costs a lot. The winner is the player who first kill all army of the enemy If you are good strateg you can to be the next Lord of The Medievel. Good Luck! <br/>
+After that the game starts. Every time when you have enough mana to make a magic the game will stop, and you have to choose a magic, then the game will continue. You have to think very well how to use your mana, because every mistake costs a lot. The winner is the player who first kill all army of the enemy. If you are good strateg you can to be the next Lord of The Medieval. Good Luck! <br/>
 <br/>
 All Magics with their numbers in the game:<br/>
 1 - Bloodlust: Increase attack of the creature with 5. <br/>
