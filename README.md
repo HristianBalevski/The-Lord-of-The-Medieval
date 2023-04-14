@@ -21,6 +21,7 @@ In the game there are 20 heroes, 10 of them are good, and 10 of them are evil. T
 After that the game starts. Every time when you have enough mana to make a magic the game will stop, and you have to choose a magic, then the game will continue. You have to think very well how to use your mana, because every mistake costs a lot. The winner is the player who first kill all army of the enemy. If you are good strateg you can to be the next Lord of The Medieval. Good Luck! <br/>
 <br/>
 All Magics with their numbers in the game:<br/>
+<br/>
 1 - Bloodlust: Increase attack of the creature with 5. <br/>
 2 - Bless : Increase damage to the creature with 5. <br/>
 3 - Curse: Reduce the attack of the enemy creature with 5. <br/>
@@ -30,7 +31,7 @@ All Magics with their numbers in the game:<br/>
 7 - Dispel: It reduce enemies mana to 0. <br/>
 8 - Haste: Increase the health of the creature with 5. <br/>
 9 - Chain Lightning: It reduce all parameters of the enemies creature with 2. <br/>
-10 - Prayer - : Increase all parameters of the creature with 2. <br/>
+10 - Prayer: Increase all parameters of the creature with 2. <br/>
 <br/>
 [Click Here If You Want to Play The Game](https://replit.com/@HristianBalevsk/The-Lord-of-The-Medieval?v=1)
 ![Gold Dragon](https://user-images.githubusercontent.com/114162692/232104884-2a128d67-01dc-4452-a7af-18771c0881f7.png)
