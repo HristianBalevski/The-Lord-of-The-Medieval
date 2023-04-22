@@ -396,22 +396,27 @@ while True:
     # defence = defence of the creature * creature quantity + health of creature
     defence = (defender[1] * defender[4]) + defender[3]
 
-    if damage < defence:
-        dead_creatures = 1
-    else:
-        # Here I calculate how many creatures are dead by the formula (damage / health of creature).
-        dead_creatures = floor(damage / defender[3])
-        if dead_creatures < 1:
+    if defender[4] > 0:
+        if defence > damage > 0:
             dead_creatures = 1
-        if dead_creatures > defender[4]:
-            dead_creatures = defender[4]
-        defender[4] -= dead_creatures
+        else:
+            if damage == 0:
+                print("Your creature is too weak it can't kill enemy.")
+                break
+            else:
+                # Here I calculate how many creatures are dead by the formula (damage / health of creature).
+                dead_creatures = floor(damage / defender[3])
+                if dead_creatures < 1:
+                    dead_creatures = 1
+                if dead_creatures > defender[4]:
+                    dead_creatures = defender[4]
+                defender[4] -= dead_creatures
+        print(line)
+        print(f'{hero_in_attack} killed {dead_creatures} {dead_name}.')
 
     # Here the player and the computer gain random amount of mana.
     player_mana += randint(1, 10)
     computer_mana += randint(1, 10)
-    print(line)
-    print(f'{hero_in_attack} killed {dead_creatures} {dead_name}.')
 
     if defender[4] == 0:
 
