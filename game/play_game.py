@@ -1,6 +1,5 @@
 from math import ceil
 from game.hero import Hero
-
 from game.player import Player
 from game.towns import Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress, Conflux
 from random import randint, choice
@@ -53,7 +52,6 @@ def calculate_dead_creatures(dmg: float, defn: float, health: int) -> int:
 
 
 # Here I generate a random number
-
 player_index = randint(0, len(Hero.heroes) - 1)
 computer_index = randint(0, len(Hero.heroes) - 1)
 
