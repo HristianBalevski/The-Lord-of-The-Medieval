@@ -25,7 +25,7 @@ Every time when you have enough mana to make a magic the game will stop, and you
 1 - Prayer: Increase the attack of the creature with random number from 1 to 10. <br/>
 2 - Bless : Increase damage to the creature with 3. <br/>
 3 - Shield: Increase defence of the creature with 3. <br/>
-4 - Resurrection: Every time adds to your army different quantity (1-30) of the creature that you play at the moment with. <br/>
+4 - Resurrection: Adds to your army different quantity (1-30) of the creature that you play at the moment with. <br/>
 5 - Haste: Increase the health of the creature with random number (1-10). <br/>
 <br/>
 ![Gold Dragon](https://user-images.githubusercontent.com/114162692/232104884-2a128d67-01dc-4452-a7af-18771c0881f7.png)
