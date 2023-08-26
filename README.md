@@ -22,16 +22,10 @@ Every time when you have enough mana to make a magic the game will stop, and you
 <br/>
 **All Magics with their numbers in the game:**<br/>
 <br/>
-1 - Bloodlust: Increase attack of the creature with 5. <br/>
-2 - Bless : Increase damage to the creature with 5. <br/>
-3 - Curse: Reduce the attack of the enemy creature with 5. <br/>
-4 - Shield: Increase defence of the creature with 5. <br/>
-5 - Resurrection: Every time adds to your army different quantity of the creature that you play at the moment with. <br/>
-6 - Magic Arrow: It can kills up to 30 enemies creatures every time when you use this magic. <br/>
-7 - Dispel: It reduce enemies mana to 0. <br/>
-8 - Haste: Increase the health of the creature with 5. <br/>
-9 - Chain Lightning: It reduce all parameters of the enemies creature with 2. <br/>
-10 - Prayer: Increase all parameters of the creature with 2. <br/>
+1 - Prayer: Increase the attack of the creature with random number from 1 to 10. <br/>
+2 - Bless : Increase damage to the creature with 3. <br/>
+3 - Shield: Increase defence of the creature with 3. <br/>
+4 - Resurrection: Every time adds to your army different quantity (1-30) of the creature that you play at the moment with. <br/>
+5 - Haste: Increase the health of the creature with random number (1-10). <br/>
 <br/>
-[Click Here If You Want to Play](https://replit.com/@HristianBalevsk/The-Lord-of-The-Medieval?v=1)
 ![Gold Dragon](https://user-images.githubusercontent.com/114162692/232104884-2a128d67-01dc-4452-a7af-18771c0881f7.png)
