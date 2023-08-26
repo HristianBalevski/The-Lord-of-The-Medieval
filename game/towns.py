@@ -1,6 +1,5 @@
 from abc import ABC, abstractmethod
-from random import randint, choice
-from math import floor
+from random import randint
 
 
 class Town(ABC):
