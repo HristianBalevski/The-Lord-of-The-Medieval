@@ -2,8 +2,8 @@ class Player:
     def __init__(self, name: str, town: str, army: dict):
         self.name = name
         self.town = town
-        self.mana = 0
         self.army = army
+        self.mana = 0
         self.warrior = None
         self.stats = None
 
