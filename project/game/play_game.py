@@ -61,9 +61,6 @@ def fight(first_player: Player, second_player: Player, dead_units):
         attacker_do_magic(first_player)
         first_player.mana -= 10
 
-    if dead_units > second_player.stats[4]:
-        dead_units = second_player.stats[4]
-
     second_player.stats[4] -= dead_units
 
 
