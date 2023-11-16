@@ -26,7 +26,7 @@ def player_choice(hero_name: str):
 def attacker_do_magic(user: Player):
     while True:
         try:
-            magic_number = int(input(f'{user.name} to do a magic choose a number between 1 and {len(magics)}: '))
+            magic_number = int(input(f"{user.name} to perform magic. Choose a number between 1 and {len(magics)}: "))
 
             if 1 <= magic_number <= len(magics):
                 magic_number -= 1
