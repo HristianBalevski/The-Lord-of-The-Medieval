@@ -18,7 +18,7 @@ At the beginning of the game the system will generate a random hero for you. In 
 8 - Fortress <br/>
 9 - Conflux <br/>
 
-Every time when you have enough mana to do a magic the game will stop, and you have to choose a magic, then the game will continue. You have to think very well how to use your mana, because every mistake costs a lot. The winner is the player who first kills all creatures of the enemy. If you are good strateg you will be the next Lord of The Medieval. <br/> Good Luck! <br/>
+Each time you amass enough mana to perform a magical feat, the game will pause, prompting you to carefully select a spell before resuming. Thoughtful mana management is crucial. Victory is achieved by the player who successfully eliminates all enemy creatures. If strategic prowess is your forte, you may ascend to the esteemed title of Lord of The Medieval. <br/> Good Luck! <br/>
 <br/>
 **All Magics with their numbers in the game:**<br/>
 <br/>
